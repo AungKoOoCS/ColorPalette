@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Color Palette</string>
+    <string name="color_accent">colorAccent</string>
+    <string name="color_primary_dark">colorPrimaryDark</string>
+    <string name="color_primary">colorPrimary</string>
+
+    <string name="rectangle_color_value">rectangleColor</string>
+    <string name="transition_rectangle">transitionRectangle</string>
+
+    <string name="d_500">500</string>
+    <string name="d_700">700</string>
+
+    <string name="a_100">A100</string>
+    <string name="a_200">A200</string>
+    <string name="a_400">A400</string>
+    <string name="a_700">A700</string>
+
+    <string name="red">Red</string>
+    <string name="pink">Pink</string>
+    <string name="purple">Purple</string>
+    <string name="purple_deep">Deep Purple</string>
+    <string name="indigo">Indigo</string>
+    <string name="blue">Blue</string>
+    <string name="blue_light">Light Blue</string>
+    <string name="cyan">Cyan</string>
+    <string name="teal">Teal</string>
+    <string name="green">Green</string>
+    <string name="green_light">Light Green</string>
+    <string name="lime">Lime</string>
+    <string name="yellow">Yellow</string>
+    <string name="amber">Amber</string>
+    <string name="orange">Orange</string>
+    <string name="orange_deep">Deep Orange</string>
+    <string name="brown">Brown</string>
+    <string name="grey">Grey</string>
+    <string name="grey_blue">Blue Grey</string>
+
+    <string name="about">About</string>
+    <string name="about_message">Developer: <b>Aung Ko Oo</b>\nDeveloped with passion.</string>
+    <string name="color_code_primary">Color code primary</string>
+    <string name="color_code_primary_dark">Color code primary dark</string>
+    <string name="color">Color</string>
+    <string name="color_code">Color code</string>
+    <string name="color_accent_density">Color accent density</string>
+    <string name="color_accent_code">Color accent code</string>
+    <string name="color_density">Color density</string>
+    <string name="other">Other</string>
+</resources>

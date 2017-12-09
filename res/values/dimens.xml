@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="default_margin">8dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="card_corner">4dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="card_max_elevation">4dp</dimen>
+    <dimen name="rectangle_small">48dp</dimen>
+    <dimen name="image_height">220dp</dimen>
+</resources>

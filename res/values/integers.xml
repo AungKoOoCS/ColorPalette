@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="d_50">50</integer>
+    <integer name="d_100">100</integer>
+    <integer name="d_200">200</integer>
+    <integer name="d_300">300</integer>
+    <integer name="d_400">400</integer>
+    <integer name="d_500">500</integer>
+    <integer name="d_600">600</integer>
+    <integer name="d_700">700</integer>
+    <integer name="d_800">800</integer>
+    <integer name="d_900">900</integer>
+</resources>
