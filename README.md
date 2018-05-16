@@ -7,4 +7,6 @@ https://material.io/guidelines/style/color.html#color-color-palette
 
 Screenshot
 ----------
-![Screenshot](./screenshot/color_palette_record.mp4)
+<video width="720" height="1280" controls>
+<source src="/screenshot/color_palette_record.mp4" type="video/mp4">
+</video>
