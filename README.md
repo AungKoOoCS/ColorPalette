@@ -8,5 +8,3 @@ https://material.io/guidelines/style/color.html#color-color-palette
 Screenshot
 ----------
 ![Screenshot-1](/screenshot/screenshot-1.png)
-![Screenshot-2](/screenshot/screenshot-2.png)
-![Screenshot-3](/screenshot/screenshot-3.png)
